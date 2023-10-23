@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kristian/KriEU</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [PriviaMC](http://discord.priviamc.it)
-
 - 🌱 I’m currently learning **Java and Java Script**
 
 - 💬 Ask me about **Linux, HTML, Minecraft Server and FiveM Server**
